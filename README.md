@@ -1,1 +1,1 @@
-# Movie_Search_App
+# Movie_info_App
