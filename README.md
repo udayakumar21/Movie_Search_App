@@ -6,3 +6,6 @@ The HTML file contains the structure of the page, including the input field for 
 The JavaScript file is responsible for making the API request and handling the response. When the user enters a movie title and clicks the search button, the app sends a request to the OMDb API with the movie title as a parameter. If the movie exists in the database, the app displays the movie information, including the title, poster image, rating, duration, cast, and description. If the movie is not found, an error message is displayed.
 
 Overall, your movie app is a great example of how APIs can be used to fetch and display information on the web. It provides users with a convenient way to access information about their favorite movies and enhances their overall movie-watching experience.
+
+DEMO: https://moviesearchinfo.netlify.app/ <br/>
+Installation: Just Clone the project and use your own OMBD api key just it... 
