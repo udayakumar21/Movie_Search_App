@@ -1,11 +1,6 @@
-# Movie_info_App
-The movie app is a web application that uses the Open Movie Database (OMDb) API to fetch information about movies based on user input. The app allows users to search for a movie by its title and then displays information about the movie, such as its rating, duration, cast, and description.
+1.Movie Information Retrieval: Developed a responsive Movie Info Application using HTML, CSS, and JavaScript that allows users to search for information about movies. Utilized the TMDB API to fetch and display movie details, including titles, release dates, posters, and overviews. The application provides a seamless user experience by loading additional results as the user scrolls, offering a comprehensive database of movies.
 
-The HTML file contains the structure of the page, including the input field for the user to enter the movie title, a search button, and a container for the results to be displayed. The CSS file is used to style the elements on the page, making it visually appealing and user-friendly.
+2.Enhanced User Experience: Implemented a feature to enhance the user experience by allowing users to watch movie trailers. Incorporated JavaScript to dynamically retrieve and open the YouTube trailer link for each movie when the "See Trailer" button is clicked. This feature offers users a convenient way to preview movies of interest, making the application more engaging and interactive.
 
-The JavaScript file is responsible for making the API request and handling the response. When the user enters a movie title and clicks the search button, the app sends a request to the OMDb API with the movie title as a parameter. If the movie exists in the database, the app displays the movie information, including the title, poster image, rating, duration, cast, and description. If the movie is not found, an error message is displayed.
+3.Technical Skills Demonstrated: Demonstrated proficiency in web development technologies, including API integration, asynchronous data fetching, event handling, and responsive design. The project showcases strong problem-solving skills, attention to detail, and the ability to create an intuitive and visually appealing interface for users. It serves as a testament to practical JavaScript programming and front-end development expertise.
 
-Overall, your movie app is a great example of how APIs can be used to fetch and display information on the web. It provides users with a convenient way to access information about their favorite movies and enhances their overall movie-watching experience.
-
-DEMO: https://moviesearchinfo.netlify.app/ <br/>
-Installation: Just Clone the project and use your own OMDB api key just it... 
