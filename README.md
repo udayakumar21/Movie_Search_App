@@ -1,6 +1,39 @@
-1.Movie Information Retrieval: Developed a responsive Movie Info Application using HTML, CSS, and JavaScript that allows users to search for information about movies. Utilized the TMDB API to fetch and display movie details, including titles, release dates, posters, and overviews. The application provides a seamless user experience by loading additional results as the user scrolls, offering a comprehensive database of movies.
+# Movie Info Application
 
-2.Enhanced User Experience: Implemented a feature to enhance the user experience by allowing users to watch movie trailers. Incorporated JavaScript to dynamically retrieve and open the YouTube trailer link for each movie when the "See Trailer" button is clicked. This feature offers users a convenient way to preview movies of interest, making the application more engaging and interactive.
+## Description
+The Movie Info Application is a web-based platform that allows users to search for detailed information about movies. It integrates with the TMDB (The Movie Database) API to fetch and display movie details, including titles, release dates, posters, overviews, and trailers. The application offers a user-friendly interface with responsive design and the ability to load additional results as the user scrolls.
 
-3.Technical Skills Demonstrated: Demonstrated proficiency in web development technologies, including API integration, asynchronous data fetching, event handling, and responsive design. The project showcases strong problem-solving skills, attention to detail, and the ability to create an intuitive and visually appealing interface for users. It serves as a testament to practical JavaScript programming and front-end development expertise.
+## Installation
+To run this project locally, follow these steps:
+
+1. Clone the repository to your local machine:
+
+2. Navigate to the project directory:
+  cd movie-info-app
+
+3. Open the project in your code editor.
+
+4. Create a config.js file in the root directory and add your TMDB API key as follows:
+javascript
+const apiKey = "YOUR_TMDB_API_KEY";
+export default apiKey;
+
+Open the project in a web browser by running a local server. You can use tools like Live Server for VS Code or any other development server of your choice.
+Skills Used
+This project demonstrates the use of the following skills and technologies:
+
+HTML
+CSS
+JavaScript
+Asynchronous data fetching
+Responsive web design
+API integration (TMDB API)
+
+License and Copyright
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+© udayakumar21
+
+
+
 
