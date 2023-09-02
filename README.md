@@ -6,7 +6,7 @@ The Movie Info Application is a web-based platform that allows users to search f
 ## Installation
 To run this project locally, follow these steps:
 
-1. Clone the repository to your local machine:
+1. Clone the repository to your local machine: https://github.com/udayakumar21/Movie_Search_App.git
 
 2. Navigate to the project directory:
   cd movie-info-app
